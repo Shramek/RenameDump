@@ -26,6 +26,6 @@ def rename_images(folder_path, start_number=0):
     print("Renaming complete.")
 
 # Example usage: Specify the folder path and starting number
-folder_path = r'C:\Users\MindBomB\Downloads\ai videos\RENAME DUMP'
+folder_path = r'C:\PATH TO \RENAME DUMP'
 start_number = 0
 rename_images(folder_path, start_number)
